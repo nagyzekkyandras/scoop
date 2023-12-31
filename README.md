@@ -25,5 +25,6 @@ scoop install main/nvm
 
 ### My workstation apps
 ```ps1
-scoop install 7zip git nvm
+scoop install 7zip git nvm@1.1.11
 ```
+> nvm@1.1.12 got some issue so needed to rollback, more info: https://github.com/coreybutler/nvm-windows/issues/1069
